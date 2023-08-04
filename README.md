@@ -22,11 +22,6 @@
 
 <br />
 
-<br />
-<br />
-
-<img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=eduescobarpy&show_icons=true&hide_border=true&theme=nord" />
-
 [flutter]: https://flutter.dev/
 [website]: https://eduardoescobar.web.app
 [twitter]: https://twitter.com/eduescobarpy/
