@@ -12,6 +12,7 @@
 [<img align="left" alt="Git" width="26px" height="26px" src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" />][git]
 [<img align="left" alt="GitHub" width="26px" height="26px" src="https://github.com/get-icon/geticon/raw/master/icons/github-icon.svg" />][github]
 
+<br />
 ### Connect with me:
 
 [<img align="left" alt="eduardoescobar.web.app" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
