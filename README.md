@@ -2,7 +2,7 @@
 
 ### Herramientas y Lenguajes:
 [<img align="left" alt="Flutter" width="26px" height="26px" src="https://github.com/get-icon/geticon/raw/master/icons/flutter.svg" />][flutter]
-[<img align="left" alt="Intellij-idea" width="26px" height="26px" src="https://github.com/get-icon/geticon/raw/master/icons/intellij-idea" />][flutter]
+[<img align="left" alt="Intellij-idea" width="26px" height="26px" src="https://github.com/get-icon/geticon/raw/master/icons/intellij-idea.svg" />][flutter]
 [<img align="left" alt="Visual Studio Code" width="26px" height="26px" src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" />][visualstudio]
 [<img align="left" alt="PHP" width="26px" height="26px" src="https://github.com/get-icon/geticon/raw/master/icons/php-alt.svg" />][php]
 [<img align="left" alt="Laravel" width="26px" height="26px" src="https://github.com/get-icon/geticon/raw/master/icons/laravel.svg" />][laravel]
